@@ -221,6 +221,7 @@ class RegistrationScreenState extends State<RegistrationScreen> {
             setState(() {
               controller.text = value ?? '';
             });
+
           },
 
           style: AppTextStyles.bodyLarge(color: AppColors.textColorDark),
