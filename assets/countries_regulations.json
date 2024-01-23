@@ -1,0 +1,1134 @@
+{
+  "countries": [
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "emissions_regulations": "Detailed information on Afghanistan's carbon emissions regulations is not readily available. Please refer to local environmental authorities for the latest updates."
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "emissions_regulations": "Albania has taken steps to address carbon emissions through various regulations. Specific details can be obtained from the country's environmental agencies."
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "emissions_regulations": "Algeria has implemented carbon emissions regulations across different sectors. For precise information, consult official publications from the government."
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "emissions_regulations": "Andorra, as a small country, has been working on environmental policies, including carbon emissions regulations. Check with local authorities for specific details."
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "emissions_regulations": "Angola is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "emissions_regulations": "Antigua and Barbuda are working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "emissions_regulations": "Argentina has enacted various carbon emissions regulations to mitigate environmental impact. For detailed information, refer to official publications from environmental authorities."
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "emissions_regulations": "Armenia has established regulations to address carbon emissions, particularly in sectors like energy and transportation. Consult with relevant authorities for precise details."
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "emissions_regulations": "Australia has comprehensive carbon emissions regulations at the federal and state levels, covering industries such as energy, transportation, and manufacturing."
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "emissions_regulations": "Austria has implemented stringent carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Austrian Empire",
+      "code": "AE",
+      "emissions_regulations": "The Austrian Empire, historically, did not have modern carbon emissions regulations. Please note that this entry refers to a historical entity."
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "emissions_regulations": "Azerbaijan is working on carbon emissions regulations, particularly in the energy sector. Please consult with local environmental authorities for specific information."
+    },
+    {
+      "name": "Baden",
+      "code": "BD",
+      "emissions_regulations": "Information on carbon emissions regulations in Baden is not readily available. Consult local environmental authorities for the latest updates."
+    },
+    {
+      "name": "Bahamas, The",
+      "code": "BS",
+      "emissions_regulations": "The Bahamas is actively working on carbon emissions regulations to address environmental challenges. For specific details, please refer to local environmental authorities."
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "emissions_regulations": "Bahrain has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "emissions_regulations": "Bangladesh has established regulations to control carbon emissions, particularly in sectors like energy and transportation. Consult with relevant authorities for precise details."
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "emissions_regulations": "Barbados has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Bavaria",
+      "code": "BV",
+      "emissions_regulations": "Information on carbon emissions regulations in Bavaria is not readily available. Consult local environmental authorities for the latest updates."
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "emissions_regulations": "Belarus has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "emissions_regulations": "Belgium has stringent carbon emissions regulations, particularly in sectors such as energy and transportation. Check official sources for the latest information on sustainable practices."
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "emissions_regulations": "Belize is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Benin (Dahomey)",
+      "code": "BN",
+      "emissions_regulations": "Benin (Dahomey) has implemented carbon emissions regulations to promote sustainable practices. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO",
+      "emissions_regulations": "Bolivia is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "emissions_regulations": "Bosnia and Herzegovina have implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "emissions_regulations": "Botswana has established regulations to control carbon emissions, particularly in sectors like energy and transportation. Consult with relevant authorities for precise details."
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "emissions_regulations": "Brazil has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Brunei",
+      "code": "BN",
+      "emissions_regulations": "Brunei has stringent carbon emissions regulations, particularly in sectors such as energy and transportation. Check official sources for the latest information on sustainable practices."
+    },
+    {
+      "name": "Brunswick and Lüneburg",
+      "code": "BL",
+      "emissions_regulations": "Information on carbon emissions regulations in Brunswick and Lüneburg is not readily available. Consult local environmental authorities for the latest updates."
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "emissions_regulations": "Bulgaria has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "emissions_regulations": "Burkina Faso is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Burma",
+      "code": "BU",
+      "emissions_regulations": "Information on carbon emissions regulations in Burma is not readily available. Consult local environmental authorities for the latest updates."
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "emissions_regulations": "Burundi has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "emissions_regulations": "Cabo Verde has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "emissions_regulations": "Cambodia is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "emissions_regulations": "Cameroon has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "emissions_regulations": "Canada has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Cayman Islands, The",
+      "code": "KY",
+      "emissions_regulations": "The Cayman Islands are working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "emissions_regulations": "The Central African Republic is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Central American Federation",
+      "code": "CAF",
+      "emissions_regulations": "Information on carbon emissions regulations in the Central American Federation is not readily available. Consult local environmental authorities for the latest updates."
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "emissions_regulations": "Chad is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "emissions_regulations": "Chile has enacted various carbon emissions regulations to mitigate environmental impact. For detailed information, refer to official publications from environmental authorities."
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "emissions_regulations": "China has set ambitious targets for carbon neutrality and has implemented various regulations to control emissions in sectors like energy, transportation, and manufacturing."
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "emissions_regulations": "Colombia has established regulations to address carbon emissions, particularly in sectors like energy and transportation. Consult with relevant authorities for precise details."
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "emissions_regulations": "Comoros is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Congo Free State",
+      "code": "CFS",
+      "emissions_regulations": "Information on carbon emissions regulations in the Congo Free State is not readily available. Consult local environmental authorities for the latest updates."
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "emissions_regulations": "Costa Rica has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Cote d’Ivoire (Ivory Coast)",
+      "code": "CI",
+      "emissions_regulations": "Cote d’Ivoire (Ivory Coast) has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "emissions_regulations": "Croatia has stringent carbon emissions regulations, particularly in sectors such as energy and transportation. Check official sources for the latest information on sustainable practices."
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "emissions_regulations": "Cuba is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "emissions_regulations": "Cyprus has established regulations to control carbon emissions, particularly in sectors like energy and transportation. Consult with relevant authorities for precise details."
+    },
+    {
+      "name": "Czechia",
+      "code": "CZ",
+      "emissions_regulations": "Czechia has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Czechoslovakia",
+      "code": "CS",
+      "emissions_regulations": "Information on carbon emissions regulations in Czechoslovakia is not applicable as it no longer exists. Please refer to individual successor states for current regulations."
+    },
+    {
+      "name": "Democratic Republic of the Congo",
+      "code": "CD",
+      "emissions_regulations": "The Democratic Republic of the Congo is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "emissions_regulations": "Denmark has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Djibouti",
+      "code": "DJ",
+      "emissions_regulations": "Djibouti is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "emissions_regulations": "Dominica is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "emissions_regulations": "The Dominican Republic has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Duchy of Parma",
+      "code": "DOP",
+      "emissions_regulations": "Information on carbon emissions regulations in the Duchy of Parma is not readily available. Consult local environmental authorities for the latest updates."
+    },
+    {
+      "name": "East Germany (German Democratic Republic)",
+      "code": "GDR",
+      "emissions_regulations": "As a historical entity, East Germany (German Democratic Republic) did not have modern carbon emissions regulations. Please note that this entry refers to a historical period, and the current regulations apply to the unified Germany."
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "emissions_regulations": "Ecuador is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "emissions_regulations": "Egypt has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "emissions_regulations": "El Salvador has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "emissions_regulations": "Equatorial Guinea is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "emissions_regulations": "Eritrea is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "emissions_regulations": "Estonia has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Eswatini",
+      "code": "SZ",
+      "emissions_regulations": "Eswatini has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "emissions_regulations": "Ethiopia is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Federal Government of Germany (1848-49)",
+      "code": "FGD",
+      "emissions_regulations": "As a historical entity, the Federal Government of Germany (1848-49) did not have modern carbon emissions regulations. Please note that this entry refers to a historical period, and the current regulations apply to the unified Germany."
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "emissions_regulations": "Fiji is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "emissions_regulations": "Finland has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "emissions_regulations": "France has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "emissions_regulations": "Gabon is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Gambia, The",
+      "code": "GM",
+      "emissions_regulations": "The Gambia is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "emissions_regulations": "Georgia has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "emissions_regulations": "Germany has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "emissions_regulations": "Ghana is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Grand Duchy of Tuscany, The",
+      "code": "GDT",
+      "emissions_regulations": "As a historical entity, the Grand Duchy of Tuscany did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "emissions_regulations": "Greece has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "emissions_regulations": "Grenada is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "emissions_regulations": "Guatemala has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "emissions_regulations": "Guinea is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "emissions_regulations": "Guinea-Bissau is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "emissions_regulations": "Guyana is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "emissions_regulations": "Haiti is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Hanover",
+      "code": "HAN",
+      "emissions_regulations": "As a historical entity, Hanover did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Hanseatic Republics",
+      "code": "HANSE",
+      "emissions_regulations": "As historical entities, the Hanseatic Republics did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Hawaii",
+      "code": "HI",
+      "emissions_regulations": "As a historical entity, Hawaii did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Hesse",
+      "code": "HES",
+      "emissions_regulations": "As a historical entity, Hesse did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Holy See",
+      "code": "VA",
+      "emissions_regulations": "The Holy See is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "emissions_regulations": "Honduras has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "emissions_regulations": "Hungary has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "emissions_regulations": "Iceland has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "emissions_regulations": "India has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "emissions_regulations": "Indonesia is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Iran",
+      "code": "IR",
+      "emissions_regulations": "Iran has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "emissions_regulations": "Iraq is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "emissions_regulations": "Ireland has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "emissions_regulations": "Israel has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "emissions_regulations": "Italy has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "emissions_regulations": "Jamaica is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "emissions_regulations": "Japan has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "emissions_regulations": "Jordan has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "emissions_regulations": "Kazakhstan has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "emissions_regulations": "Kenya is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Kingdom of Serbia/Yugoslavia",
+      "code": "KSY",
+      "emissions_regulations": "As a historical entity, the Kingdom of Serbia/Yugoslavia did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "emissions_regulations": "Kiribati is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Korea",
+      "code": "KP/KR",
+      "emissions_regulations": "The Korean Peninsula is divided into North Korea (KP) and South Korea (KR). Both regions have implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Kosovo",
+      "code": "XK",
+      "emissions_regulations": "Kosovo is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "emissions_regulations": "Kuwait has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "emissions_regulations": "Kyrgyzstan is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Laos",
+      "code": "LA",
+      "emissions_regulations": "Laos is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "emissions_regulations": "Latvia has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "emissions_regulations": "Lebanon has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "emissions_regulations": "Lesotho is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Lew Chew (Loochoo)",
+      "code": "LC",
+      "emissions_regulations": "As a historical entity, Lew Chew (Loochoo) did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "emissions_regulations": "Liberia is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "emissions_regulations": "Libya is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "emissions_regulations": "Liechtenstein has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "emissions_regulations": "Lithuania has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "emissions_regulations": "Luxembourg has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "emissions_regulations": "Madagascar is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "emissions_regulations": "Malawi is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "emissions_regulations": "Malaysia has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "emissions_regulations": "The Maldives is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "emissions_regulations": "Mali is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "emissions_regulations": "Malta has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "emissions_regulations": "The Marshall Islands are actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "emissions_regulations": "Mauritania is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "emissions_regulations": "Mauritius has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Mecklenburg-Schwerin",
+      "code": "MS",
+      "emissions_regulations": "As a historical entity, Mecklenburg-Schwerin did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Mecklenburg-Strelitz",
+      "code": "MS",
+      "emissions_regulations": "As a historical entity, Mecklenburg-Strelitz did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "emissions_regulations": "Mexico has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Micronesia",
+      "code": "FM",
+      "emissions_regulations": "Micronesia is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Moldova",
+      "code": "MD",
+      "emissions_regulations": "Moldova is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "emissions_regulations": "Monaco has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "emissions_regulations": "Mongolia is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "emissions_regulations": "Montenegro is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "emissions_regulations": "Morocco has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "emissions_regulations": "Mozambique is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "emissions_regulations": "Namibia is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Nassau",
+      "code": "NAS",
+      "emissions_regulations": "As a historical entity, Nassau did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "emissions_regulations": "Nauru is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "emissions_regulations": "Nepal is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Netherlands, The",
+      "code": "NL",
+      "emissions_regulations": "The Netherlands has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "emissions_regulations": "New Zealand has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "emissions_regulations": "Nicaragua is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "emissions_regulations": "Niger is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "emissions_regulations": "Nigeria has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "North German Confederation",
+      "code": "NGC",
+      "emissions_regulations": "As a historical entity, the North German Confederation did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "North German Union",
+      "code": "NGU",
+      "emissions_regulations": "As a historical entity, the North German Union did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "emissions_regulations": "North Macedonia is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "emissions_regulations": "Norway has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Oldenburg",
+      "code": "OLD",
+      "emissions_regulations": "As a historical entity, Oldenburg did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "emissions_regulations": "Oman is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Orange Free State",
+      "code": "OFS",
+      "emissions_regulations": "As a historical entity, the Orange Free State did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "emissions_regulations": "Pakistan has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "emissions_regulations": "Palau is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "emissions_regulations": "Panama has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Papal States",
+      "code": "PS",
+      "emissions_regulations": "As a historical entity, the Papal States did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "emissions_regulations": "Papua New Guinea is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "emissions_regulations": "Paraguay is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "emissions_regulations": "Peru has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "emissions_regulations": "The Philippines has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Piedmont-Sardinia",
+      "code": "PS",
+      "emissions_regulations": "As a historical entity, Piedmont-Sardinia did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "emissions_regulations": "Poland has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "emissions_regulations": "Portugal has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "emissions_regulations": "Qatar has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Republic of Genoa",
+      "code": "REG",
+      "emissions_regulations": "As a historical entity, the Republic of Genoa did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Republic of Korea (South Korea)",
+      "code": "KR",
+      "emissions_regulations": "South Korea has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Republic of the Congo",
+      "code": "CG",
+      "emissions_regulations": "The Republic of the Congo is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "emissions_regulations": "Romania has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "emissions_regulations": "Russia has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "emissions_regulations": "Rwanda is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "emissions_regulations": "Saint Kitts and Nevis is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "emissions_regulations": "Saint Lucia has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "emissions_regulations": "Saint Vincent and the Grenadines are actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "emissions_regulations": "Samoa is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "emissions_regulations": "San Marino has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "emissions_regulations": "Sao Tome and Principe are actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "emissions_regulations": "Saudi Arabia has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Schaumburg-Lippe",
+      "code": "SL",
+      "emissions_regulations": "As a historical entity, Schaumburg-Lippe did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "emissions_regulations": "Senegal is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "emissions_regulations": "Serbia has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "emissions_regulations": "Seychelles has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "emissions_regulations": "Sierra Leone is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "emissions_regulations": "Singapore has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "emissions_regulations": "Slovakia has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "emissions_regulations": "Slovenia has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "emissions_regulations": "The Solomon Islands are actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "emissions_regulations": "Somalia is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "emissions_regulations": "South Africa has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "South Sudan",
+      "code": "SS",
+      "emissions_regulations": "South Sudan is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "emissions_regulations": "Spain has comprehensive carbon emissions regulations, focusing on sustainable practices in sectors such as energy and transportation. Check official sources for the latest updates."
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "emissions_regulations": "Sri Lanka has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "emissions_regulations": "Sudan is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "emissions_regulations": "Suriname is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "emissions_regulations": "Sweden has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "emissions_regulations": "Switzerland has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Syria",
+      "code": "SY",
+      "emissions_regulations": "Syria is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "emissions_regulations": "Tajikistan is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Tanzania",
+      "code": "TZ",
+      "emissions_regulations": "Tanzania is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Texas",
+      "code": "TX",
+      "emissions_regulations": "As a historical entity, Texas did not have separate modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "emissions_regulations": "Thailand has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "emissions_regulations": "Timor-Leste is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "emissions_regulations": "Togo is working towards managing carbon emissions, especially in sectors like energy and transportation. Seek information from relevant governmental bodies for the latest updates."
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "emissions_regulations": "Tonga is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "emissions_regulations": "Trinidad and Tobago has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "emissions_regulations": "Tunisia has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "emissions_regulations": "Turkey has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "emissions_regulations": "Turkmenistan is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "emissions_regulations": "Tuvalu is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Two Sicilies",
+      "code": "TS",
+      "emissions_regulations": "As a historical entity, Two Sicilies did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "emissions_regulations": "Uganda is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "emissions_regulations": "Ukraine has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Union of Soviet Socialist Republics",
+      "code": "USSR",
+      "emissions_regulations": "As a historical entity, the Union of Soviet Socialist Republics did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "emissions_regulations": "The United Arab Emirates has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "United Kingdom",
+      "code": "GB",
+      "emissions_regulations": "The United Kingdom has comprehensive carbon emissions regulations, covering various industries and sectors. Refer to official sources for the latest updates on environmental policies."
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "emissions_regulations": "Uruguay is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "emissions_regulations": "Uzbekistan is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "emissions_regulations": "Vanuatu is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE",
+      "emissions_regulations": "Venezuela has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "emissions_regulations": "Vietnam has enacted carbon emissions regulations to promote environmental sustainability. Check with local authorities for specific information."
+    },
+    {
+      "name": "Württemberg",
+      "code": "WU",
+      "emissions_regulations": "As a historical entity, Württemberg did not have modern carbon emissions regulations. Please note that this entry refers to a historical period."
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "emissions_regulations": "Yemen is actively working on carbon emissions regulations to address environmental challenges. Consult with local environmental authorities for specific details."
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "emissions_regulations": "Zambia is working towards implementing carbon emissions regulations to address environmental concerns. Please check with local authorities for specific details."
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "emissions_regulations": "Zimbabwe has implemented carbon emissions regulations to mitigate environmental impact. Refer to official publications from environmental authorities for detailed information."
+    }
+  ]
+}
