@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:carbon_emission_app/presentation/general_information_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -98,6 +99,22 @@ class ProfileScreenState extends State<ProfileScreen> {
           'Your Profile',
           style: AppTextStyles.heading(color: AppColors.textColorDark),
         ),
+        actions: [
+          IconButton(
+            icon: const Icon(
+              Icons.file_present,
+              color: AppColors.textColorDark,
+            ),
+            onPressed: () {
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => GeneralInformationScreen(),
+                ),
+              );
+            },
+          ),
+        ],
       ),
       body: SingleChildScrollView(
         child: Padding(
